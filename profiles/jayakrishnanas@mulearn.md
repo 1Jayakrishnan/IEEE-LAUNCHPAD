@@ -1,9 +1,7 @@
 # Jayakrishnan A S
 
 ### About Me
-Hi, Jayakrishnan A S, I am a dedicated and passionate B.Tech student majoring in Computer Science and Engineering at [Your University].I am a dedicated and passionate B.Tech student majoring in Computer Science and Engineering at APJ Abdul Kalam Technological University.
-I have honed my skills in Software development, problem solving and innovative thinking.
-
+Hi, Jayakrishnan A S a dedicated and passionate B.Tech student majoring in Computer Science and Engineering at APJ Abdul Kalam Technological University.I have honed my skills in Software development, problem solving and innovative thinking.
 
 
 ## Portfolio Highlights
@@ -14,12 +12,12 @@ I have honed my skills in Software development, problem solving and innovative t
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Intrusion Detection System** | Developed a federated deep learning-based Intrusion Detection System (IDS) to train intrusion detection models
                                    collaboratively without sharing sensitive data.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **AskAround loaction based app**  |  Built a web application that enables users to engage with their local community by posting and answering location-specific
+| **AskAround loaction based app**|  Built a web application that enables users to engage with their local community by posting and answering location-specific
                                         questions, seeking recommendations, and sharing insights.                                           | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
 
 #### Leadership and Influence:
 
-- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
+- I have taken part in a variety of volunteer activities.My leadership focuses on setting goals everyone can work towards, encouraging teamwork, and ensuring tasks are completed thoughtfully.
 
 #### Networking:
 
